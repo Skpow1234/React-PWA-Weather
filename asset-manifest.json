@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-PWA-Weather/static/css/main.08af894a.css",
+    "main.js": "/React-PWA-Weather/static/js/main.7a820aac.js",
+    "index.html": "/React-PWA-Weather/index.html",
+    "main.08af894a.css.map": "/React-PWA-Weather/static/css/main.08af894a.css.map",
+    "main.7a820aac.js.map": "/React-PWA-Weather/static/js/main.7a820aac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08af894a.css",
+    "static/js/main.7a820aac.js"
+  ]
+}
